@@ -1,3 +1,3 @@
 function skillsMember() {
-  return ['skill1', 'skill2]
+  return ['skill1', 'skill2']
 }
